@@ -3,4 +3,4 @@ It lets users play the classic hand game against a computer opponent with instan
 The app features a clean UI, animated icons, and smooth touch interactions, making it fun and user-friendly. \
 Built using functional components, useState, and React Navigation, it's a great project for beginners learning mobile app development. \
 The code is open-source, runs on Android and iOS, and can be started using npx expo start. \
-Created by Tejas Pagar and available on GitHub at tejas-
+
